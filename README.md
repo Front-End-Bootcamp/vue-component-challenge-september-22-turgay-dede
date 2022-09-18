@@ -6,3 +6,22 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+
+# All Groups :pushpin:
+![img.png](img.png)
+
+## Selected Orchid :pushpin:
+![img_1.png](img_1.png)
+
+## Selected SteelBlue :pushpin:
+![img_2.png](img_2.png)
+
+## Selected IndianRed :pushpin:
+![img_3.png](img_3.png)
+
+## Selected YellowGreen :pushpin:
+![img_4.png](img_4.png)
+
+## Selected LightSeaGreen :pushpin:
+![img_5.png](img_5.png)
